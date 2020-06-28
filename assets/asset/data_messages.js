@@ -1,0 +1,35 @@
+[
+    {
+        id:'rwBa06nqlR',
+        user_id: 'trongtinh_Rc0LjZ54yj',
+        user_name: 'TRONG TINH',
+        user_avatar: require("../images/avatar1.png"),
+        sender_id: 'trongtinh_Rc0LjZ54yj',
+        messages: 'Hello',
+        readed: false,
+        num_messages_readed:6,
+        created_at: 'Few seconds',
+    },
+    {
+        id:'qKwgXmIoN0',
+        user_id: 'huynhnhu_R3J4WUoWXJ',
+        user_name: 'HUYNH NHU',
+        user_avatar: require("../images/avatar2.png"),
+        sender_id: 'trongthanh_O7xyqYRvo1',
+        messages: 'What are you doing?',
+        readed: true,
+        num_messages_readed:0,
+        created_at: '1 minute',
+    },
+    {
+        id:'ucPA0NXweB',
+        user_id: 'trongthat_IlpBApYmye',
+        user_name: 'TRONG THAT',
+        user_avatar: require("../images/avatar3.png"),
+        sender_id: 'trongthat_IlpBApYmye',
+        messages: 'Why?',
+        readed: false,
+        num_messages_readed:3,
+        created_at: '1 day ago',
+    }
+]
